@@ -143,7 +143,7 @@ Icarus Verilog simulation:
 ![image alt](screenshots/iverilog_demux_generate.png)
 
 GTKWave waveform:  
-![image alt](screenshots/gtkwave_demux_generate.png)
+![image alt](screenshots/gtkwake_demux_generate.png)
 
 ---
 
@@ -181,3 +181,4 @@ GTKWave waveform:
 - **GTKWave** waveforms provide visual confirmation that logic simplifications don’t change functional behavior.  
 
 ---
+
